@@ -25,7 +25,7 @@ A modern desktop note-taking application built with C# and .NET, designed to hel
 
 ### Prerequisites
 
-- Visual Studio 2022 or newer
+- Visual Studio 2015 or newer
 - .NET Framework
 - Microsoft Access Database Engine
 
