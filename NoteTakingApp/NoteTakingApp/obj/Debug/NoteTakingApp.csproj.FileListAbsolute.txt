@@ -1,0 +1,14 @@
+c:\users\digiyol\documents\visual studio 2015\Projects\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe.config
+c:\users\digiyol\documents\visual studio 2015\Projects\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe
+c:\users\digiyol\documents\visual studio 2015\Projects\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.pdb
+c:\users\digiyol\documents\visual studio 2015\Projects\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csprojResolveAssemblyReference.cache
+c:\users\digiyol\documents\visual studio 2015\Projects\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.LoginForm.resources
+c:\users\digiyol\documents\visual studio 2015\Projects\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Properties.Resources.resources
+c:\users\digiyol\documents\visual studio 2015\Projects\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.GenerateResource.Cache
+c:\users\digiyol\documents\visual studio 2015\Projects\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.exe
+c:\users\digiyol\documents\visual studio 2015\Projects\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.pdb
+c:\users\digiyol\documents\visual studio 2015\Projects\NoteTakingApp\NoteTakingApp\bin\Debug\DevComponents.DotNetBar2.dll
+c:\users\digiyol\documents\visual studio 2015\Projects\NoteTakingApp\NoteTakingApp\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Digiyol\Documents\Visual Studio 2015\Projects\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.SighnupForm.resources
+C:\Users\Digiyol\Documents\Visual Studio 2015\Projects\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.MainApp.resources
+C:\Users\Digiyol\Documents\Visual Studio 2015\Projects\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.AddNoteForm.resources
